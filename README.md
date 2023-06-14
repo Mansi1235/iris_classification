@@ -18,10 +18,6 @@ pip install scikit-learn numpy pandas seaborn matplotlib
 
 To run the project, simply clone the repository and run the iris_classification.py file:
 
-bash
-
-git clone https://github.com/your-username/iris-classification.git cd iris-classification python iris_classification.py The script will load the Iris dataset, split it into training and testing sets, train a support vector machine (SVM) classifier on the training set, and evaluate its accuracy on the testing set. It will then output the accuracy score and a confusion matrix.
-
 #Contributing:
 
 Contributions to this project are welcome! If you'd like to contribute, please fork the repository and create a new branch for your changes. Once you've made your changes, submit a pull request and I'll review your changes.
